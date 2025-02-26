@@ -49,8 +49,11 @@
 - **Identifies risk zones & humanitarian impacts** for **pre-fire mitigation & post-fire recovery**.
 - **Dashboards** help **governments & humanitarian organizations** prioritize response strategies.
 
-📌 **Future Potential**  
-An **AI chatbot** using **Azure OpenAI & Power Virtual Agents** could enhance adoption and accessibility for global communities.
+📌 **Exploring AI Chatbot Integration**  
+We are **investigating how an AI-powered chatbot**—leveraging **Azure OpenAI & Power Virtual Agents**—could assist **communities, emergency responders, and policymakers** by providing:  
+- **Localized wildfire risk insights** based on AI-driven models.  
+- **Multilingual accessibility** for diverse global users.  
+- **Interactive disaster preparedness recommendations** for high-risk zones.  
 
 ---
 
@@ -62,7 +65,7 @@ An **AI chatbot** using **Azure OpenAI & Power Virtual Agents** could enhance ad
 
 ### 📍 Mentorship & Partnerships
 - **Advised by Philippa’s mentors** from **USGS EROS Center – Wildland Fire Support**.
--  **Manuel & Philippa** coordinated a **University of Southern California (USC) & Universidad Técnica de Manabí (UTM)** partnership to expand research, engage local governments & NGOs, and pursue funding opportunities.
+- **Manuel & Philippa** coordinated a **University of Southern California (USC) & Universidad Técnica de Manabí (UTM)** partnership to expand research, engage local governments & NGOs, and pursue funding opportunities.
 - Applied for **NASA Lifelines** (67 applicants – 12 accepted, not awarded but received high compliments on application) & another grant (pending).
 
 ### 📍 Expanding AI + GIS Capabilities
@@ -72,8 +75,8 @@ An **AI chatbot** using **Azure OpenAI & Power Virtual Agents** could enhance ad
 ---
 
 ## 📌 Next Steps
-- **Refine our project demo & technical documentation**.
-- **Prepare for MSLA AI Project showcase & future funding opportunities**.
-- **Continue scaling AI + GIS for global wildfire resilience**.
+- **Continue refining AI + GIS wildfire risk assessment models**.  
+- **Explore AI chatbot potential for community-driven risk awareness**.  
+- **Enhance multilingual access & user engagement strategies**.  
 
-🚀 **Bringing AI + GIS solutions to communities in need.**
+🚀 **Advancing AI + GIS solutions to support global community resilience.**
