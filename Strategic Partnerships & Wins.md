@@ -33,7 +33,7 @@
 ### **🏅 2025 Los Angeles Geospatial Summit ArcGIS StoryMaps Competition: Most Compelling Communication Using Maps**  
 📌 **Philippa Burgess was awarded** **Most Compelling Communication Using Maps** at the **2025 Los Angeles Geospatial Summit ArcGIS StoryMaps Competition**, judged by **Esri**.  
 
-📌 **Official StoryMap Title:**  
+📌 **StoryMap Title:**  
 📍 **Geospatial Insights: Jasper Fire in the Black Hills**  
 📍 **Subtitle:** _Remote Sensing Highlights 25 Years of Forest Recovery Success and Challenges_  
 
