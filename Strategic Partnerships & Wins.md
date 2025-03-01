@@ -85,6 +85,6 @@
 ### **🌟 Why This Matters**
 📌 Our **strategic partnerships, mentorships, and industry recognition validate our project’s impact** and show **why our work deserves continued support.**  
 
-📌 **With NASA, USGS, Esri, Microsoft, and USC/UTM backing various aspects of our work, we have a strong foundation to pursue funding, research, and further development.**  
+📌 **With USGS, Esri, Microsoft, and USC/UTM backing various aspects of our work, we have a strong foundation to pursue funding, research, and further development.**  
 
 ---
