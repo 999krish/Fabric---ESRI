@@ -6,6 +6,7 @@ Please see the folders with supporting materials:
 📁 [Literature Review](https://drive.google.com/drive/folders/1wffXLXui0zfENcTh8j2SUIOzktXkxDXW?usp=drive_link)  
 📁 [Images](https://drive.google.com/drive/folders/19WUfzY9o21p81ts-DSMqva5q-Oz2X2Wf?usp=drive_link)  
 📁 [Data Sets](https://drive.google.com/drive/folders/18nY2sRbc-_jz5sK4b9fHkkCj5ABqp2ZZ?usp=drive_link)  
+📁 [Graphics](https://drive.google.com/drive/folders/1sfxDQqrLHrRkT90m5KixVLQt2D-zfATC?usp=drive_link)  
 
 ---
 
@@ -36,5 +37,12 @@ Includes screenshots, field images, and other visual documentation of the projec
 ### **5. Data Sets**  
 📌 [View Data Sets Folder](https://drive.google.com/drive/folders/18nY2sRbc-_jz5sK4b9fHkkCj5ABqp2ZZ?usp=drive_link)  
 Contains raw and processed geospatial datasets used for analysis.
+
+---
+
+### **6. Graphics**  
+📌 [View Graphics Folder](https://drive.google.com/drive/folders/1sfxDQqrLHrRkT90m5KixVLQt2D-zfATC?usp=drive_link)  
+Contains project-related graphics, visualizations, and design assets.
+
 
 
